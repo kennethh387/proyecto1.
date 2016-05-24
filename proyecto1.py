@@ -4,4 +4,5 @@ def prob1(n):
 def prob2(F):
 	return((F-32)/1.8)
 
-
+def prob3(a,b):
+	return (a**b)
