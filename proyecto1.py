@@ -6,3 +6,6 @@ def prob2(F):
 
 def prob3(a,b):
 	return (a**b)
+
+def prob_4(c,a):
+	return((a//2)*"*")+c+((a//2)*"*")
